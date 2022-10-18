@@ -1,0 +1,37 @@
+{
+  "id": "3710666",
+  "name": "expr1",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1727429",
+      "name": "209电话-线性圆框",
+      "font_class": "dianhua-xianxingyuankuang",
+      "unicode": "e8bc",
+      "unicode_decimal": 59580
+    },
+    {
+      "icon_id": "2076384",
+      "name": "表单控件 联系人",
+      "font_class": "biaodankongjianlianxiren",
+      "unicode": "e8c1",
+      "unicode_decimal": 59585
+    },
+    {
+      "icon_id": "4552970",
+      "name": "邮箱",
+      "font_class": "youxiang",
+      "unicode": "e908",
+      "unicode_decimal": 59656
+    },
+    {
+      "icon_id": "7677918",
+      "name": "位置",
+      "font_class": "weizhi",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    }
+  ]
+}

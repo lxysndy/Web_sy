@@ -1,0 +1,137 @@
+.iconfont {
+    font-family: "iconfont";
+    font-size: 10px;
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+body{
+    background-color: rgb(230,230,230);
+}
+.mainpage {
+    height: 900px;
+    width: 640px;
+    background-color: rgb(255,255,255);
+    margin: 0 auto;
+    font-family: "Microsoft YaHei";
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.15), 0 6px 20px 0 rgba(0, 0, 0, 0.09);
+}
+.big {
+    margin-left: 30px;
+}
+.top{
+    height: 30px;
+    width: 640px;
+    background-color: rgb(18,28,37);
+}
+.top p{
+    margin: 5px 10px;
+    float: left;
+    height: 30px;
+    width: 80px;
+    font-size: 16px;
+    font-weight: 700;
+    color: #fffdef;
+}
+.top span{
+    float: left;
+    width: 45px;
+    height: 30px;
+    background-color: rgb(36,140,177);
+}
+.tr {
+    height: 75px;
+    width: 500px;
+    margin: 10px auto;
+}
+.name {
+    display: inline-block;
+    width: 350px;
+    height: 75px;
+    margin-left: 40px;
+    /*margin: 0px auto;*/
+    /*background-color: #000;*/
+}
+.name1 {
+    font-weight: 700;
+    font-size: 14px;
+    margin-bottom: 5px;
+}
+.inf {
+    font-size: 10px;
+    margin: 0 auto;
+}
+.img {
+    display: inline-block;
+    width: 60px;
+    height: 75px;
+    margin-left: 40px;
+    margin-top: 20px;
+    background-image: url("img.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    border-right: 2px #528B8B solid;
+    border-bottom: 2px #528B8B solid;
+    /*background-color: #000;*/
+}
+.infor{
+    text-align: center;
+    color: #36648B;
+}
+.sumarrytitle {
+    width: 540px;
+    height: 22px;
+    margin-left: 20px;
+    margin-top: 30px;
+    border-bottom: 1px black solid;
+}
+.sumarrytitle span{
+    font-size: 12px;
+    font-weight: 700;
+    color: #2F4F4F;
+    margin-bottom: 2px;
+}
+.sumarrylist{
+    width: 540px;
+}
+.sumarrylist ul li{
+    font-size: 10px;
+    color: #636363;
+}
+.normaltitle{
+     width: 540px;
+     height: 22px;
+     margin-left: 20px;
+     margin-top: 0;
+     border-bottom: 1px black solid;
+ }
+.normaltitle span{
+    font-size: 12px;
+    font-weight: 700;
+    color: #2F4F4F;
+    margin-bottom: 2px;
+}
+.normallist{
+    color: rgb(18,28,37);
+    width: 540px;
+    margin-left: 20px;
+}
+.school{
+    width: 540px;
+    font-weight: 700;
+    font-size: 12px;
+    margin:5px 0;
+}
+.normallist div{
+    float: right;
+    font-weight: 400;
+    font-size: 10px;
+    text-align: right;
+}
+.major{
+    font-size: 12px;
+    margin:0 0;
+}
+.sumarrylist ul{
+    margin: 10px 0;
+}

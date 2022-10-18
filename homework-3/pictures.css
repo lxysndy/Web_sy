@@ -1,0 +1,95 @@
+/* CDN 服务仅供平台体验和调试使用，平台不承诺服务的稳定性，企业客户需下载字体包自行发布使用并做好备份。 */
+.iconfont {
+    font-family: "iconfont";
+    font-size: 16px;
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+.iconfont1 {
+    font-family: "iconfont";
+    font-size: 50px;
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+.iconfont2 {
+    font-family: "iconfont";
+    font-size: 35px;
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+.l {
+    display: block;
+    width: 220px;
+    height: 100px;
+    margin:30px auto;
+    background-color: #fff;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.15), 0 6px 20px 0 rgba(0, 0, 0, 0.09);
+}
+
+.image {
+    float: left;
+    width: 50px;
+    height: 50px;
+    margin-top: 25px;
+    margin-left: 20px;
+}
+.i1{
+    color: rgb(64,201,198);
+}
+.i2 {
+    color: #5CACEE;
+}
+.i3 {
+    color: red;
+}
+.i4 {
+    color: rgb(58,191,162);
+}
+.sentence{
+    float: right;
+    width: 100px;
+    height:60px;
+    margin-top: 20px;
+    margin-right: 20px;
+    /*background-color: #000;*/
+}
+.wtop {
+    width: 100px;
+    height: 20px;
+    margin: 7px auto;
+    /*background-color: #000;*/
+    font-size: 14px;
+    color: rgb(151,151,151);
+    font-weight: bold;
+}
+.wbot {
+    width: 100px;
+    height: 20px;
+    margin: 7px auto;
+    color: rgb(105,105,105);
+    font-size: 18px;
+    font-weight: bold;
+    /*background-color: #000;*/
+}
+.picbig{
+    width: 1000px;
+    height: 315px;
+    margin: 10px auto;
+    background-image: url("pics/picbig.png");
+    background-size: 100%;
+}
+.picbot{
+    width: 1000px;
+    height: 275px;
+    margin: 30px auto;
+    background-image: url("pics/img.png");
+    background-size: 100%;
+}
+.sv {
+    position: absolute;
+    top: 50px;
+    right: 0;
+}
